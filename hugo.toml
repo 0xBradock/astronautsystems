@@ -1,0 +1,4 @@
+baseURL = 'http://astronaut.systems/'
+theme = 'blowfish'
+languageCode = 'en-us'
+title = 'My new Site'
