@@ -1,0 +1,20 @@
+@font-face {
+  font-family: mono;
+  src: url('/fonts/UbuntuMono-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: standard;
+  src: url('/fonts/FiraCodeNerdFont-Regular.ttf'); 
+}
+
+html {
+  font-family: standard;
+  font-size: 14pt;
+}
+
+code * {
+  font-family: mono;
+  font-size: 14pt;
+}
+

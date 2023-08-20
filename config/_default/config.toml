@@ -1,0 +1,43 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://nunocoracao.github.io/blowfish/docs/getting-started/
+
+title = 'astronaut'
+enableGitInfo = true
+
+theme = "blowfish"
+baseURL = "https://astronaut.systems/"
+defaultContentLanguage = "en"
+languageCode = "en"
+
+enableRobotsTXT = true
+paginate = 10
+summaryLength = 30
+enableEmoji = true
+
+buildDrafts = false
+buildFuture = false
+
+[languages.en.params]
+description = "Interplanetary software solutions"
+isoCode = "en"
+rtl = false
+displayName = "EN"
+
+
+[imaging]
+  anchor = 'Center'
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
