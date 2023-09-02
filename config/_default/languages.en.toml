@@ -14,7 +14,6 @@ copyright = "Thoughts are my own © 2023"
 name = "🧑‍🚀 Ace"
 image = ""
 headline = "Modern Software Development and Architecture"
-bio = "A decade trying to make the world a better place, a byte at a time"
 links = [
   { email = "mailto:ace-astronaut@proton.me" },
 #   { link = "https://link-to-some-website.com/" },

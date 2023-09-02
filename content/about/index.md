@@ -6,7 +6,7 @@ date: 2023-01-01T10:10:10+01:00
 
 > A decade trying to make the world a better place, a byte at a time
 
-👋 Hi there! My name is Camilo and I'm a software engineer with over a decade of experience.
+👋 Hi there! I'm a software engineer with over a decade of experience.
 I'm passionate about creating cutting-edge software that is not only performant, but also modern, secure, and testable.
 
 Over the years, I have worked on a variety of environments, ranging from large-scale enterprise to small startups.
